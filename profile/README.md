@@ -1,4 +1,4 @@
 ## Hi there 👋
 
 This is Dejnyo
-- a small organization made by Dejny
+- a small organization made by *Dejny*
